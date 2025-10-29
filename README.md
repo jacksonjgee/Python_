@@ -8,3 +8,8 @@ The reason I want to do this is to then learn numpy/pandas/matplotlin/scikit-lea
 Hopefully with these skills I can have a more likely chance of getting internship.
 
 I will be following a roadmap similar to this: https://roadmap.sh/python
+
+`   
+print("hello world")
+print("testing")
+`

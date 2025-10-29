@@ -9,6 +9,8 @@ Hopefully with these skills I can have a more likely chance of getting an intern
 
 I will be following a roadmap similar to this: https://roadmap.sh/python
 
+The goal is to finish this roadmap in 3 months Nov-Jan, during my holiday.
+
 ```python
-print("Hello world")
+print("I love Python")
 ```

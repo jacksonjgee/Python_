@@ -1,5 +1,5 @@
 # Python_Fundamentals
-Strengthening my Python Fundamentals this Nov 2025
+Strengthening my Python skills
 
 This summer holiday I plan to hone-in my python skills. Mastering the basics and more...
 

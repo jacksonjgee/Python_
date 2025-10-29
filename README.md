@@ -1,4 +1,4 @@
-# Python_Fundamentals
+# Python_
 Strengthening my Python skills
 
 This summer holiday I plan to hone-in my python skills. Mastering the basics and more...
@@ -9,7 +9,6 @@ Hopefully with these skills I can have a more likely chance of getting internshi
 
 I will be following a roadmap similar to this: https://roadmap.sh/python
 
-`   
-print("hello world")
-print("testing")
-`
+```python
+print("Hello world")
+```

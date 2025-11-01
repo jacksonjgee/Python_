@@ -14,3 +14,10 @@ The goal is to finish this roadmap in 3 months Nov-Jan, during my holiday.
 ```python
 print("I love Python")
 ```
+I will be learning python from the following links in the following order:
+https://www.kaggle.com/learn/python
+to lock in basics and fundamentals
+https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved
+to lock in intuition.
+
+
